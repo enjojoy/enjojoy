@@ -10,6 +10,7 @@ Currently working on [@masumi-network](https://github.com/masumi-network)
 ## building
 
 - **[MasumiForge](https://github.com/enjojoy/masumiforge)** — forge Masumi agents with OpenClaw. Describe an agent, get a deployed service.
+- **[CopyClaw](https://github.com/enjojoy/copyclaw)** — AI-powered writing editor with surgical rewrites, powered by OpenClaw
 - **[google-trends-masumi](https://github.com/enjojoy/google-trends-masumi)** — live Google Trends research agent on the Masumi Network marketplace
 
 ## find me
