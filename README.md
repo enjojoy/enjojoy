@@ -12,4 +12,4 @@ Currently working on [@masumi-network](https://github.com/masumi-network)
 
 [![X](https://img.shields.io/badge/X-@enjojoyy-000?style=flat&logo=x)](https://x.com/enjojoyy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-albinanikiforova-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/albinanikiforova)
-[![Personal website](https://albinanikiforova.com)]
+[![Personal website](https://img.shields.io/badge/Personal_website-albinanikiforova.com-7C3AED?style=flat&logo=googlechrome&logoColor=white)](https://albinanikiforova.com)
