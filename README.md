@@ -1,12 +1,6 @@
 # Albina Nikiforova 🪼
 
-Building developer tooling for the agentic era.
-
-I'm a DevRel engineer who codes — focused on making AI agents easy to build,
-deploy, and monetize. Open source advocate, content creator, tinkerer.
-
 Currently working on [@masumi-network](https://github.com/masumi-network)
-
 
 ## find me
 
